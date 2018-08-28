@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.raise.com	TRUE	/	FALSE	1999999999	anon_session_id	BAhJIiUwYWZhOGJkODM5ZDUzMzQ1MGRiNThkOWMzMTE2MjU4OQY6BkVU--3b7196a958ddad2767cff0dc5cc7e695426deeb8
+www.raise.com	TRUE	/	FALSE	1999999999	f_reactcart	1
+www.raise.com	TRUE	/	FALSE	1999999999	f_reacthomepage_uuid	1cfd114a-1358-4349-8b94-64c8f0a3cd9e
+www.raise.com	TRUE	/	FALSE	1999999999	f_reacthomepage	1
+www7.raise.com	TRUE	/	FALSE	1999999999	thx_guid	506b5b0c2e2f45689b3d7bed61dc9d59
+www.raise.com	TRUE	/	FALSE	1999999999	flash	%7B%22notice%22%3A%22The+gift+card+you%5Cu0026%2339%3Bre+looking+for+is+not+available%2C+but+check+out+these+cards+instead.%22%7D
+www.raise.com	TRUE	/	FALSE	1999999999	split	%7B%22merchant_partner_ordering%3A1%22%3A%22control%22%7D
+www.raise.com	TRUE	/	FALSE	1999999999	csrf_token	gOtSNQFnjrDMhnvscQKnGxKEd29WFscsEpa8R2mT21vqEjLZyVawduHCBDVdZGBW656fZcIcny8p0jvpuYAlDw%3D%3D
+www.raise.com	TRUE	/	FALSE	1999999999	_coupontrade_session	0afa8bd839d533450db58d9c31162589
+
